@@ -9,7 +9,7 @@
     },
     "disable_custom_urls": false,
     "disable_guests": true,
-    "disable_login_language_selector": false,
+    "disable_login_language_selector": true,
     "disable_3pid_login": false,
     "brand": "Allstora",
     "integrations_ui_url": "https://scalar.vector.im/",
@@ -25,16 +25,16 @@
     "show_labs_settings": false,
     "features": {},
     "default_federate": false,
-    "default_theme": "dark",
+    "default_theme": "light",
     "room_directory": {
         "servers": []
     },
     "branding": {
-        "welcome_background_url": "https://cdn.shopify.com/s/files/1/0684/1791/3068/files/Allstora_appstle.png?v=1709237498",
+        "welcome_background_url": "https://ingram-image-files-prod.s3.us-west-2.amazonaws.com/Allstora+Step%2BRepeat.png",
         "auth_header_logo_url": "https://cdn.shopify.com/s/files/1/0684/1791/3068/files/allstora-logo-pink-vector.svg?v=1709154943",
         "auth_footer_links": [
-            { "text": "FAQ", "url": "https://example.org/faq" },
-            { "text": "Donate", "url": "https://example.org/donate" }
+            { "text": "Home", "url": "https://allstora.com" },
+            { "text": "FAQ", "url": "https://allstora.com/pages/faq" }
         ]
     },
     "enable_presence_by_hs_url": {
